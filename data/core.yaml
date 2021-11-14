@@ -1406,10 +1406,10 @@ en:
       tooltip: "Traffic signs from Mapillary"
     view_on_mapillary: "View this image on Mapillary"
   openstreetcam_images:
-    tooltip: "Street-level photos from OpenStreetCam"
+    tooltip: "Street-level photos from KartaView"
   openstreetcam:
-    title: OpenStreetCam
-    view_on_openstreetcam: "View this image on OpenStreetCam"
+    title: KartaView
+    view_on_openstreetcam: "View this image on KartaView"
   note:
     note: Note
     title: Edit note
